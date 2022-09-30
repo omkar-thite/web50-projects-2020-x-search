@@ -1,0 +1,120 @@
+#navbar{
+    height: 100px;
+    padding: 10px;
+}
+
+.nav-item{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin: 20px;
+}
+
+.nav_logo {
+    float: left;
+    width: 10%;
+    height: auto;
+}
+
+#logo
+{
+    margin: auto;
+    margin-top: 100px;
+}
+
+#search 
+{
+    margin: auto;
+    width: 50%;
+    height: 35px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border: black 2px solid;
+    border-radius: 10px;
+}
+
+.searchbox{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gsearch{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    height: 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    padding: 10px;
+}
+
+.buttonsbox
+{
+    width:50%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.gsearch:hover {
+    background-color: rgb(0, 180, 180);
+    color: black;
+}
+
+.container
+{
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    #logo {
+        max-width: 25%;
+        height: auto;
+    }
+}
+
+#ad_heading {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    margin-bottom: 20px;
+    color: brown;
+    float: left;
+    
+}
+
+.advance_page {
+    width: 75%;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+label {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    height: 25px;
+    padding: 1px 8px ;
+    margin: 7px;
+}
+
+.asearch {
+    width: 75%;
+    margin-right: 75px;
+    height: 25px;
+    padding: 1px 8px ;
+    margin: 5px;
+    float: right;
+}
+
+.aform
+{
+    margin-left : 25px;
+}

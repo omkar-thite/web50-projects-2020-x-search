@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Google Advance Search
+        </title>
+
+        <link href="styles.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+        <div id="navbar">
+            <a href="index.html"> <img class="nav_logo" src="https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Logo"></a>
+
+            <div class="nav-item">
+                <a href="image.html"> Image Search </a>    
+            </div>
+            <div class="nav-item">
+                <a href="index.html"> Search </a>
+            </div>          
+        </div>
+
+        <h2 id="ad_heading"> Advanced Search </h2>
+        <br>
+            <div class="advance_page">
+
+                
+
+                <form action="https://www.google.com/search" method="get" name="f">
+                    <div class="aform">
+                        <h3>Find pages with...</h3>
+                        <hr> 
+                            <label for="q">all these words: </label>
+                            <input class="asearch" type="text" name="as_q" autocomplete="off" placeholder="search.." autofocus>
+
+                            <label for="epq">this exact word or phrase: </label>
+                            <input class="asearch" type="text" name="as_epq" autocomplete="off" placeholder="search.." autofocus>
+
+                            <label for="oq">any of these words: </label>
+                            <input class="asearch" type="text" name="as_oq" autocomplete="off" placeholder="search.." autofocus>
+
+                            <label for="eq">none of these words: </label>
+                            <input class="asearch" type="text" name="as_eq" autocomplete="off" placeholder="search.." autofocus>
+
+                        <div class="buttonsbox">
+                            <input class="gsearch" type="submit" value="Advance Search">
+                        </div>
+                    </div>
+            </div>
+            </form>
+        </div>
+    </body>
+</html>
