@@ -8,6 +8,8 @@ Search queries are sent to google's server and then user is presented with searc
 Website also includes google's **image search** page and also **advanced search** page.  
 below are screenshots of website.
 
+1. Home Page  
+  ![alt text](https://github.com/noobdv18/web50-projects-2020-x-search/blob/master/screenshots/homepage.png)
 
 
 
