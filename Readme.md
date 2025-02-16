@@ -1,7 +1,6 @@
 **Google'c Clone Website**  
-link : https://omkar-thite.github.io/web50-projects-2020-x-search/
-video demo : https://www.youtube.com/watch?v=hC9mWwVbchU  
-*(Video demo demonstrates older version of project. Project has been updated and now looks like in screenshots below.)*
+link : https://omkar-thite.github.io/web50-projects-2020-x-search/. 
+
   
 This is project 0 of CS50 Web Development Course.  
 It's a clone website of google.com.  
