@@ -3,8 +3,10 @@ link : https://omkar-thite.github.io/web50-projects-2020-x-search/.
 
   
 This is project 0 of CS50 Web Development Course.  
-It's a clone website of google.com.  
+It's a clone of google frontend.
+ 
 Search queries are sent to google's server and then user is presented with search results.  
+
 Website also includes google's **image search** page and also **advanced search** page.  
 below are screenshots of website.
 
