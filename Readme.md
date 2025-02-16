@@ -3,7 +3,7 @@ link : https://omkar-thite.github.io/web50-projects-2020-x-search/.
 
   
 This is project 0 of CS50 Web Development Course.  
-It's a clone of google frontend.
+It's a clone of google frontend for desktop, not responsive on mobile phones.
  
 Search queries are sent to google's server and then user is presented with search results.  
 
